@@ -44,6 +44,10 @@ body {
 
 /* Product Image Section */
 
+#carouselExampleIndicators {
+    display: none;
+}
+
 #productImageSection {
     /* background-color: orange; */
     height: 100%;
